@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|c:\\users\\bridget.njeri\\desktop\\project\\webapp\\webapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|c:\\users\\bridget.njeri\\desktop\\project\\webapp\\webapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|c:\\users\\bridget.njeri\\desktop\\project\\webapp\\webapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|c:\\users\\bridget.njeri\\desktop\\project\\webapp\\webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|c:\\users\\bridget.njeri\\desktop\\project\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C9549A3-A50C-4BA2-BDD7-917567B1FDE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-01T19:35:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Jokes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:19:28.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Models\\Joke.cs",
+              "RelativeToolTip": "WebApp\\Models\\Joke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:16:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\JokesController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T10:03:38.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bridget.njeri\\Desktop\\PROJECT\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAB8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T09:57:39.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
